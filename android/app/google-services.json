@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "833735262175",
+    "project_id": "turkticaret-case",
+    "storage_bucket": "turkticaret-case.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833735262175:android:d80c247fccc36c5c894e6a",
+        "android_client_info": {
+          "package_name": "com.example.turkticaret_case"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833735262175-8naegiqodm6quvfhrbh2fulfd8hcsfp7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx5VFcqXimAa5nJBmrypJJLwdd3jvmr-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833735262175-8naegiqodm6quvfhrbh2fulfd8hcsfp7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
